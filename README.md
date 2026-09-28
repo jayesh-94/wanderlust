@@ -128,7 +128,6 @@ wanderlust/
 
 ## 🔮 Future Improvements
 
-- Reviews and ratings for listings
 - Search and filter by location, price, and category
 - Booking system
 - Wishlist / favorites
